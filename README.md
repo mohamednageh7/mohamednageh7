@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Mohamed Nageh</h1>
 <h3 align="center">A passionate full-stack JavaScript developer from Egypt</h3>
+<img alt="coding" align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dlp2p4qjzhaymcskxrkow7t0kvp9sks2k5akn95g&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednageh7&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednageh7" /> </p>
 
