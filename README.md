@@ -1,4 +1,4 @@
-![https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg]([https://ldbootcamp.com.ng/Images/Data-science.jpg](https://elements-cover-images-0.imgix.net/37a16df5-688a-4d87-be17-77674edea0cd?auto=compress%2Cformat&fit=max&w=900&s=b2957e7085ad73fd1b385fe30556247d))
+![[https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg](https://elements-cover-images-0.imgix.net/37a16df5-688a-4d87-be17-77674edea0cd?auto=compress%2Cformat&fit=max&w=900&s=b2957e7085ad73fd1b385fe30556247d)]([https://ldbootcamp.com.ng/Images/Data-science.jpg](https://elements-cover-images-0.imgix.net/37a16df5-688a-4d87-be17-77674edea0cd?auto=compress%2Cformat&fit=max&w=900&s=b2957e7085ad73fd1b385fe30556247d))
 <h1 align="center">Hi 👋, I'm Mohamed Nageh</h1>
 <h3 align="center">A passionate full-stack JavaScript developer from Egypt</h3>
 <img alt="coding" align="right" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"/>
