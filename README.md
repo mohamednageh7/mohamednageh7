@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamednageh7&label=Profile%20views&color=0e75b6&style=flat" alt="mohamednageh7" /> </p>
 
-- 🔭 I’m currently working on [Summ AI](SummAI)
+- 🔭 I’m currently working on [Summ AI]([SummAI](https://summ-ai.com/])
 
 - 🌱 I’m currently learning **Tensorflow**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohamednageh7@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13i96g7CRooxpOJWDfLe79vWEcEJxupC4/view](https://drive.google.com/file/d/13i96g7CRooxpOJWDfLe79vWEcEJxupC4/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1-HIMvs2mGrwnh4-o-lcv8RfmdkU_lO-V/view?usp=sharing)
 
 - ⚡ Fun fact **I think I love cats**
 
