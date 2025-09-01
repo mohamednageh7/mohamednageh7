@@ -7,13 +7,10 @@
 
 - 🔭 I’m currently working on [Summ AI](https://summ-ai.com/)
 
-- 🌱 I’m currently learning **Tensorflow**
-
 - 💬 Ask me about **ReactJS and NodeJs**
 
 - 📫 How to reach me **mohamednageh7@yahoo.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1-HIMvs2mGrwnh4-o-lcv8RfmdkU_lO-V/view?usp=sharing)
 
 - ⚡ Fun fact **I think I love cats**
 
